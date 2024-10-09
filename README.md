@@ -41,7 +41,7 @@
 </div>
 
 ## 🏆 Solved.ac Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leemsh11)](https://solved.ac/leemsh11/)
+<p align=center><a target="_blank" href="https://solved.ac/profile/leemsh11"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=leemsh11"></a></p>
 
 ## 📊 My GitHub Stats
 [![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemsh&show_icons=true)](https://github.com/leemsh/github-readme-stats)
