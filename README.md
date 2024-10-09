@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my GitHub profile! I'm **SANG HYUK LEEM**
+# 👋 Hi there! I'm **SANG HYUK LEEM**
 
 ## I'm interested in
 <div align="center">
