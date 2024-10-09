@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-Welcome to my GitHub profile! I'm **leemsh**, and this is my ✨ *special* ✨ repository because it features my README.md.
+Welcome to my GitHub profile! I'm **SANG HYUK LEEM**, and this is my ✨ *special* ✨ repository because it features my README.md.
 
 ## 🌱 Currently Learning
 I'm currently diving into the **Spring Boot framework** to enhance my backend development skills.
@@ -30,6 +30,4 @@ I love coding and building new applications!
 
 ## 📊 My GitHub Stats
 [![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemsh&show_icons=true)](https://github.com/leemsh/github-readme-stats)
-
-## 🔥 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemsh)](https://github.com/leemsh/github-readme-stats)
