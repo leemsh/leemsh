@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm **SANG HYUK LEEM**, and this is my ✨ *specia
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Python-%233B73B6.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
@@ -24,7 +23,6 @@ Welcome to my GitHub profile! I'm **SANG HYUK LEEM**, and this is my ✨ *specia
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JWT-%23223C55.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white" />&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white" />&nbsp
@@ -35,11 +33,10 @@ Welcome to my GitHub profile! I'm **SANG HYUK LEEM**, and this is my ✨ *specia
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
-  <br>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%230A2B5D.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Discord-%233F0E62.svg?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Zoom-%234A9BC5.svg?style=for-the-badge&logo=zoom&logoColor=white" />&nbsp
   <br>
+  <img src="https://img.shields.io/badge/Zoom-%234A9BC5.svg?style=for-the-badge&logo=zoom&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23066EAA.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Linux-%2300BEB3.svg?style=for-the-badge&logo=linux&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Windows-%23006EB0.svg?style=for-the-badge&logo=windows&logoColor=white" />&nbsp
