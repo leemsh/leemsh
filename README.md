@@ -28,7 +28,7 @@
 </ul>
 
 <h2>📫 How to Reach Me</h2>
-<p>You can Contact by <a href="mailto:leemsh11@naver.com">email</a> directly!</p>
+<p>You can Contact by email = "leemsh11@naver.com" directly!</p>
 
 <h2>😄 Pronouns</h2>
 <p>He/Him</p>
