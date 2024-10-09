@@ -45,8 +45,9 @@
 
 ## 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leemsh&show_icons=true&theme=radical" alt="GitHub Stats" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leemsh&layout=compact" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leemsh&show_icons=true&theme=radical" alt="GitHub Stats" height="250" />
+  <span style="margin: 0 20px;"></span> <!-- 간격을 위한 스팬 태그 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leemsh" alt="Top Languages" height="250" />
 </div>
 
 ## 🌱 Currently Learning
