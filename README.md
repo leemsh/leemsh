@@ -1,6 +1,4 @@
-# 👋 Hi there!
-
-Welcome to my GitHub profile! I'm **SANG HYUK LEEM**, and this is my ✨ *special* ✨ repository because it features my README.md.
+# 👋 Hi there! Welcome to my GitHub profile! I'm **SANG HYUK LEEM**
 
 ## I'm interested in
 <div align="center">
