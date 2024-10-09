@@ -36,11 +36,13 @@ Welcome to my GitHub profile! I'm **SANG HYUK LEEM**, and this is my ✨ *specia
   <img src="https://img.shields.io/badge/Hadoop-%23412035.svg?style=for-the-badge&logo=apachehadoop&logoColor=white" />&nbsp
 </div>
 
-
-
 ## 📊 My GitHub Stats
 [![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemsh&show_icons=true)](https://github.com/leemsh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemsh)](https://github.com/leemsh/github-readme-stats)
+
+## 🏆 Solved.ac Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leemsh11)](https://solved.ac/leemsh11/)
+
 
 ## 🌱 Currently Learning
 I'm currently diving into the **Spring Boot framework** to enhance my backend development skills.
