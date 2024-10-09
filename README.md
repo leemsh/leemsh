@@ -1,49 +1,35 @@
-<h1>👋 Hi there!</h1>
+# 👋 Hi there!
 
-<p>
-  Welcome to my GitHub profile! I'm <strong>leemsh</strong>, and this is my ✨ <em>special</em> ✨ repository because it features my README.md.
-</p>
+Welcome to my GitHub profile! I'm **leemsh**, and this is my ✨ *special* ✨ repository because it features my README.md.
 
-<h2>🌱 Currently Learning</h2>
-<p>I'm currently diving into the <strong>Spring Boot framework</strong> to enhance my backend development skills.</p>
+## 🌱 Currently Learning
+I'm currently diving into the **Spring Boot framework** to enhance my backend development skills.
 
-<h2>🔭 Currently Working On</h2>
-<ul>
-  <li>Exploring new project ideas and technologies.</li>
-</ul>
+## 🔭 Currently Working On
+- Exploring new project ideas and technologies.
 
-<h2>👯 Looking to Collaborate On</h2>
-<p>I'm open to collaboration on interesting projects! Feel free to reach out.</p>
+## 👯 Looking to Collaborate On
+I'm open to collaboration on interesting projects! Feel free to reach out.
 
-<h2>🤔 Looking for Help With</h2>
-<ul>
-  <li>Spring Boot and its ecosystem.</li>
-  <li>Best practices in API development.</li>
-</ul>
+## 🤔 Looking for Help With
+- Spring Boot and its ecosystem.
+- Best practices in API development.
 
-<h2>💬 Ask Me About</h2>
-<ul>
-  <li>Web development and programming languages.</li>
-  <li>My experiences with various frameworks.</li>
-</ul>
+## 💬 Ask Me About
+- Web development and programming languages.
+- My experiences with various frameworks.
 
-<h2>📫 How to Reach Me</h2>
-<p>You can Contact by email = "leemsh11@naver.com" directly!</p>
+## 📫 How to Reach Me
+You can contact me by email at **leemsh11@naver.com** directly!
 
-<h2>😄 Pronouns</h2>
-<p>He/Him</p>
+## 😄 Pronouns
+He/Him
 
-<h2>⚡ Fun Fact</h2>
-<p>I love coding and building new applications!</p>
+## ⚡ Fun Fact
+I love coding and building new applications!
 
-<h2>📊 My GitHub Stats</h2>
+## 📊 My GitHub Stats
 [![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=leemsh&show_icons=true)](https://github.com/leemsh/github-readme-stats)
-<h2>🔥Top Langs</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemsh)](https://github.com/leemsh/github-readme-stats)
-</p>
 
-<p>
-  <a href="https://github.com/leemsh/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leemsh" alt="Top Languages" />
-  </a>
-</p>
+## 🔥 Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leemsh)](https://github.com/leemsh/github-readme-stats)
