@@ -19,6 +19,10 @@ Welcome to my GitHub profile! I'm **SANG HYUK LEEM**, and this is my ✨ *specia
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JWT-%23223C55.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white" />&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?style=for-the-badge&logo=amazon-ec2&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?style=for-the-badge&logo=amazonrds&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white" />&nbsp
 </div>
 
 ## 🛠 Tools
