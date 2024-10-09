@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm **SANG HYUK LEEM**, and this is my ✨ *specia
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Hadoop-%23412035.svg?style=for-the-badge&logo=apachehadoop&logoColor=white" />&nbsp
   <br>
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
@@ -33,7 +34,6 @@ Welcome to my GitHub profile! I'm **SANG HYUK LEEM**, and this is my ✨ *specia
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23066EAA.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Linux-%2300BEB3.svg?style=for-the-badge&logo=linux&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Windows-%23006EB0.svg?style=for-the-badge&logo=windows&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Hadoop-%23412035.svg?style=for-the-badge&logo=apachehadoop&logoColor=white" />&nbsp
 </div>
 
 ## 📊 My GitHub Stats
