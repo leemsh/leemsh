@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm **SANG HYUK LEEM**, and this is my ✨ *specia
 
 ## I'm interested in
 <div align="center">
-  <img src ="https://skillicons.dev/icons?i=aws,spring,mysql,java,docker,django&perline=3" />
+  <img src ="https://skillicons.dev/icons?i=aws,spring,mysql,java,docker,django&perline=6" />
 </div>
 
 ## 📊 Tech Stacks
