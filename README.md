@@ -2,7 +2,7 @@
 
 ## 🌟 I'm interested in
 <div align="center">
-  <img src ="https://skillicons.dev/icons?i=aws,spring,mysql,java,docker,django&perline=6" />
+  <img src ="https://skillicons.dev/icons?i=aws,spring,mysql,java,docker,django,c,c++&perline=4" />
 </div>
 
 ## 📊 Tech Stacks
