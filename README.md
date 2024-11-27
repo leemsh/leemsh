@@ -72,7 +72,7 @@ I'm open to collaboration on **problem-solving** projects that involve **C++**, 
 - **Linux systems**: process management, system-level programming, and optimization.
 
 ## 📫 How to Reach Me
-You can contact me by email at **ㅎ27776804@gmail.com** directly!
+You can contact me by email at **g27776804@gmail.com** directly!
 
 ## 😄 Pronouns
 He/Him
