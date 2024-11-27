@@ -50,25 +50,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leemsh" alt="Top Languages" height="200" />
 </div>
 
-## 🌱 Currently Learning
-I'm currently diving into the **Spring Boot framework** to enhance my backend development skills.
+## 🌱 Currently Learning  
+I'm currently improving my skills in **C++** for advanced problem solving and algorithm development, focusing on **multithreading** and parallel programming. I'm also diving into **numerical analysis** and enhancing my knowledge of **Linux** systems for better performance optimization.
 
-## 🔭 Currently Working On
-- Exploring new project ideas and technologies.
+## 🔭 Currently Working On  
+- Solving complex algorithmic problems and improving efficiency in **C++**.  
+- Exploring **multithreading** techniques to optimize performance in problem-solving tasks.  
+- Applying **numerical analysis** methods to solve computational problems.
 
-## 👯 Looking to Collaborate On
-I'm open to collaboration on interesting projects! Feel free to reach out.
+## 👯 Looking to Collaborate On  
+I'm open to collaboration on **problem-solving** projects that involve **C++**, **multithreading**, and **numerical analysis**. If you're working on performance optimization or complex algorithms, feel free to reach out!
 
-## 🤔 Looking for Help With
-- Spring Boot and its ecosystem.
-- Best practices in API development.
+## 🤔 Looking for Help With  
+- Advanced **C++** techniques, especially for **problem-solving** and performance optimization.  
+- Best practices for **multithreading** and **parallel computing**.  
+- **Numerical analysis** and applying it to solve real-world computational challenges.
 
-## 💬 Ask Me About
-- Web development and programming languages.
-- My experiences with various frameworks.
+## 💬 Ask Me About  
+- **Problem solving** in **C++**: algorithms, data structures, and optimization techniques.  
+- **Multithreading** in **C++**: concurrency, thread synchronization, and performance improvements.  
+- **Linux systems**: process management, system-level programming, and optimization.
 
 ## 📫 How to Reach Me
-You can contact me by email at **leemsh11@naver.com** directly!
+You can contact me by email at **ㅎ27776804@gmail.com** directly!
 
 ## 😄 Pronouns
 He/Him
